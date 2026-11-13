@@ -4,4 +4,4 @@
 
 Scentos B-1 interactive design preview. This repository contains only the runnable demo and its required media.
 
-The demo stores cart and sample account details on the visitor’s device. Checkout is a simulation; no payments, emails or shipments are created. The Shopify theme is maintained separately.
+The demo stores cart and sample account details on the visitor’s device. Checkout is a simulation; no payments, emails or shipments are created. Scentos Helper uses the local catalog and FAQ rules; it does not connect to a live AI or order service. The Shopify theme is maintained separately.
